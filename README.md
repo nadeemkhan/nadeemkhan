@@ -1,5 +1,5 @@
 ![Hi 👋, I'm Nadeem Khan, A passionate mobile and web application developer 👨‍💻 from New Delhi, India 🇮🇳]
-
+(https://nadeemkhan.in/img/nk1.jpeg)
 <p align="center">
   <a href="https://twitter.com/nadeemkhan7" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nadeemkhan7" height="28px" width="28px" />
