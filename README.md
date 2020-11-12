@@ -1,4 +1,4 @@
-![Hi 👋, I'm Nadeem Khan, A passionate mobile and web application developer 👨‍💻 from New Delhi, India 🇮🇳](https://nadeemkhan.in/img/nk1.jpeg)
+![Hi 👋, I'm Nadeem Khan, A passionate mobile and web application developer 👨‍💻 from New Delhi, India 🇮🇳]
 
 <p align="center">
   <a href="https://twitter.com/nadeemkhan7" target="blank">
