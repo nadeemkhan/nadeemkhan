@@ -13,7 +13,7 @@
   </a>
 </p>
 
-#### 📸 Latest photos on [my Instagram](https://instagram.com/nadeemkhan7):
+#### 📸 My latest photos on [Instagram](https://instagram.com/nadeemkhan7):
 
 <a href='https://www.instagram.com/p/CGcYEzuAyTmwpimzPJKfd3Rels9HeCQE_Ms74E0/' target='_blank'>
   <img width='20%' src='https://instagram.fdel24-1.fna.fbcdn.net/v/t51.2885-15/e35/121736146_929115327616064_2119287136447994190_n.jpg?_nc_ht=instagram.fdel24-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tiOtOSVFZGEAX8-Etbv&tp=18&oh=d504976fd24f3cfbf57bc3cc1faf07bb&oe=5FD77EBE' alt='Instagram photo' />
