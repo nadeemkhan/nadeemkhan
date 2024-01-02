@@ -28,9 +28,10 @@
   <img width='20%' src='https://nadeemkhan.in/img/nk4.jpeg' alt='nadeemkhan.in photo' />
 </a>
 
+
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=RickyM7&locale=pt-br&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" height=150 align="center" alt="status do perfil" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyM7&layout=compact&locale=pt-br&theme=transparent&card_max_width=320" height=150 align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&locale=pt-br&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" height=150 align="center" alt="status do perfil" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeemkhan&layout=compact&locale=pt-br&theme=transparent&card_max_width=320" height=150 align="center" />
   </a>
 </p>
