@@ -31,7 +31,7 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&locale=en&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" height=150 align="center" alt="status" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeemkhan&layout=compact&locale=en&theme=transparent&card_max_width=320" height=150 align="center" />
+    <img align="left" block src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="45%" />
+    <img align="right" block src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=false" width="49.5%" />
   </a>
 </p>
