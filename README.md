@@ -4,18 +4,28 @@ As a versatile developer based in New Delhi, India 🇮🇳, I specialize in cre
 <br />
 Core Technologies:
 <br />
+<br />
 Web Development: Node.js, React.js, Angular, Laravel
+<br />
 Mobile Development: Flutter, iOS, Android, React Native, Ionic
+<br />
 Full Stack Development: Combining front-end and back-end technologies for complete solutions
 <br />
+<br />
 Cloud and DevOps:
+<br />
 Cloud Services: AWS Cloud, DigitalOcean
+<br />
 DevOps Practices: Streamlining and automating operations to enhance efficiency
-Design and Marketing:
-UI/UX Design: Crafting intuitive and visually appealing interfaces
+<br />
+Design and Marketing: UI/UX Design: Crafting intuitive and visually appealing interfaces
+<br />
 <br />
 Digital Marketing: Leveraging social media and digital channels to boost online presence and engagement
+<br />
+<br />
 I am always eager to learn new technologies and adapt to the ever-evolving digital landscape. Let’s connect to explore how we can collaborate on future projects!
+<br />
 <br />
 <div align="center">
   <a href="https://twitter.com/nadeemkhan7" target="_blank">
