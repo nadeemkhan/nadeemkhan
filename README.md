@@ -1,37 +1,19 @@
-Hello 👋, I'm Nadeem Khan, a dedicated developer specializing in mobile and web applications from New Delhi, India 🇮🇳. With a passion for building seamless, user-friendly digital experiences, I continually strive to harness the latest technologies to deliver exceptional products.
+Hello 👋, I'm Nadeem Khan
+I'm a dedicated developer based in New Delhi, India 🇮🇳, specializing in mobile and web applications. Driven by a passion for crafting seamless and user-friendly digital experiences, I am committed to leveraging cutting-edge technologies to produce outstanding results.
 
-
-<p align="center">
-  <a href="https://twitter.com/nadeemkhan7" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nadeemkhan7" height="28px" width="28px" />
+<div align="center">
+  <a href="https://twitter.com/nadeemkhan7" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter: nadeemkhan7" height="28" width="28" />
   </a>
-  <a href="https://fb.com/nadeemkhan786" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nadeemkhan786" height="28px" width="28px" />
+  <a href="https://fb.com/nadeemkhan786" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook: nadeemkhan786" height="28" width="28" />
   </a>
-  <a href="https://instagram.com/nadeemkhan7" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nadeemkhan7" height="28px" width="28px" />
+  <a href="https://instagram.com/nadeemkhan7" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram: nadeemkhan7" height="28" width="28" />
   </a>
-</p>
-
-#### 📸 My latest photos on [Instagram](https://instagram.com/nadeemkhan7):
-
-<a href='https://nadeemkhan.in/' target='_blank'>
-  <img width='20%' src='https://nadeemkhan.in/img/nk3.jpeg' alt='nadeemkhan.in photo' />
-</a>
-<a href='https://nadeemkhan.in/' target='_blank'>
-  <img width='20%' src='https://nadeemkhan.in/img/nk1.jpeg' alt='nadeemkhan.in photo' />
-</a>
-<a href='https://nadeemkhan.in/' target='_blank'>
-  <img width='20%' src='https://nadeemkhan.in/img/nk2.jpeg' alt='nadeemkhan.in photo' />
-</a>
-<a href='https://nadeemkhan.in/' target='_blank'>
-  <img width='20%' src='https://nadeemkhan.in/img/nk4.jpeg' alt='nadeemkhan.in photo' />
-</a>
-
-
-<p align="center">
-  <a>
-    <img align="left" block src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="45%" />
-    <img align="right" block src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=false" width="49.5%" />
-  </a>
-</p>
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=true" width="48%" />
+</div>
