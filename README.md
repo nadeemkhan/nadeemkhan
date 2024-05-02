@@ -1,4 +1,4 @@
-![Hi 👋, I'm Nadeem Khan, A passionate mobile and web application developer 👨‍💻 from New Delhi, India 🇮🇳]
+Hello 👋, I'm Nadeem Khan, a dedicated developer specializing in mobile and web applications from New Delhi, India 🇮🇳. With a passion for building seamless, user-friendly digital experiences, I continually strive to harness the latest technologies to deliver exceptional products.
 
 
 <p align="center">
