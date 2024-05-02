@@ -15,5 +15,5 @@ I'm a dedicated developer based in New Delhi, India 🇮🇳, specializing in mo
 <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=true&date_format=j M[ Y]&ring=DDAA00&fire=DD2727&sideLabels=DD2727&currStreakLabel=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=true&date_format=j%20M[%20Y]&ring=DDAA00&fire=DD2727&sideLabels=DD2727&currStreakLabel=FFFFFF" width="48%" />
 </div>
