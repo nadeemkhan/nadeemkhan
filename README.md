@@ -1,5 +1,6 @@
-Hello 👋, I'm Nadeem Khan
+**Hello 👋, I'm Nadeem Khan**
 As a versatile developer based in New Delhi, India 🇮🇳, I specialize in creating sophisticated mobile and web applications that enhance user engagement and experience. With a robust toolkit and a keen eye for design, I am committed to delivering excellence in every project. Here's a snapshot of the technologies I work with:
+<br />
 <br />
 Core Technologies:
 <br />
