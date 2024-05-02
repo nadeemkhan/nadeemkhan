@@ -1,4 +1,5 @@
 **Hello 👋, I'm Nadeem Khan**
+<br />
 As a versatile developer based in New Delhi, India 🇮🇳, I specialize in creating sophisticated mobile and web applications that enhance user engagement and experience. With a robust toolkit and a keen eye for design, I am committed to delivering excellence in every project. Here's a snapshot of the technologies I work with:
 <br />
 <br />
@@ -13,6 +14,7 @@ Full Stack Development: Combining front-end and back-end technologies for comple
 <br />
 <br />
 Cloud and DevOps:
+<br />
 <br />
 Cloud Services: AWS Cloud, DigitalOcean
 <br />
