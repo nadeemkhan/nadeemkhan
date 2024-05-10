@@ -6,7 +6,7 @@ As a versatile developer based in New Delhi, India 🇮🇳, I specialize in cre
 Core Technologies:
 <br />
 <br />
-Web Development: Node.js, React.js, Angular, Laravel
+Web Development: Node.js, React.js, Angular, Laravel, Python
 <br />
 Mobile Development: Flutter, iOS, Android, React Native, Ionic
 <br />
