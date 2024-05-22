@@ -42,6 +42,5 @@ I am always eager to learn new technologies and adapt to the ever-evolving digit
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemkhan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemkhan&theme=dracula&hide_border=true&date_format=j%20M[%20Y]&ring=DDAA00&fire=DD2727&sideLabels=DD2727&currStreakLabel=FFFFFF" width="48%" />
+  <a href="https://nadeemkhan.in"><img src="https://streak-stats.demolab.com?user=nadeemkhan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
