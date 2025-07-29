@@ -25,21 +25,31 @@
   <img src="https://img.shields.io/badge/LangChain-4CBB17?style=flat-square&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="30" />
 </div>
-
 <br />
 
 <table align="center">
   <tr>
-    <td>
-      <b>Web:</b> Node.js, React.js, Angular, Laravel, Python<br>
-      <b>Mobile:</b> Flutter, iOS, Android, React Native, Ionic<br>
-      <b>Cloud/DevOps:</b> AWS, DigitalOcean<br>
-      <b>AI/ML:</b> TensorFlow, PyTorch, OpenAI, Gemini, LangChain, HuggingFace<br>
-      <b>Design:</b> UI/UX, Figma<br>
-      <b>Marketing:</b> Social, Digital Campaigns
-    </td>
+    <td><img src="https://img.shields.io/badge/Web%20Development-Node.js%2C%20React.js%2C%20Angular%2C%20Laravel%2C%20Python-0d1117?style=for-the-badge&logo=javascript&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Mobile%20Development-Flutter%2C%20iOS%2C%20Android%2C%20React%20Native%2C%20Ionic-0d1117?style=for-the-badge&logo=android&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%2C%20DigitalOcean%2C%20Azure-0d1117?style=for-the-badge&logo=digitalocean&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AI%20%26%20ML-TensorFlow%2C%20PyTorch%2C%20OpenAI%2C%20Gemini%2C%20LangChain%2C%20HuggingFace-0d1117?style=for-the-badge&logo=openai&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%2C%20Design%20Systems-0d1117?style=for-the-badge&logo=figma&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Marketing-Social%20Media%2C%20Digital%20Campaigns-0d1117?style=for-the-badge&logo=campaignmonitor&logoColor=white"/></td>
   </tr>
 </table>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemkhan" /> </p>
 
 <br />
 
